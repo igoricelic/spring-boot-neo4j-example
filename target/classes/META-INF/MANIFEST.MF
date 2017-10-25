@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootNeo4J
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: igoricelic
+Implementation-Vendor-Id: com.example.springneo4j
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootNe
+ o4J/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
